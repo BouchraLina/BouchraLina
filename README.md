@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bouchra
 - 👀 I’m interested in design and engineering.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning all kind of new stuff :) 
 - 💞️ I’m looking to collaborate on cool  web apps and mini-games. 
 - 📫 You can reach me through my email: Bouchralina.art@gmail.com.
 
